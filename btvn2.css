@@ -1,0 +1,43 @@
+table {
+    background-color: yellow;
+    width: 100%;
+    height: 250px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#state,
+#city,
+#zip,
+#add,
+#pw,
+#email {
+    width: 100%;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#td1 {
+    width: 50%;
+}
+
+#td2 {
+    width: 30%;
+}
+
+#ip3 {
+    height: 35px;
+    width: 17%;
+    background-color: blue;
+    color: white;
+}
