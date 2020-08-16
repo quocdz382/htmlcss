@@ -1,0 +1,120 @@
+#o {
+    margin: auto;
+    width: 1200px;
+    height: 600px;
+    border: 1px solid black;
+}
+
+#o1 {
+    border: 1px solid black;
+    position: relative;
+    width: 1200px;
+    height: 200px;
+    background-color: #efefef;
+}
+
+p {
+    font-size: 13px;
+    font-family: arial;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+#htch {
+    position: absolute;
+    width: 1000px;
+    height: 50px;
+    background-color: #efefef;
+    left: 100px;
+}
+
+#hd {
+    padding-top: 5px;
+    position: absolute;
+    width: 300px;
+    height: 130px;
+    top: 50px;
+    left: 100px;
+}
+
+#lb {
+    border: 1px solid black;
+    border-top: none;
+    border-bottom: none;
+    position: absolute;
+    width: 300px;
+    height: 130px;
+    top: 50px;
+    left: 450px;
+    padding-left: 10px;
+    padding-right: 40px;
+}
+
+#md {
+    position: absolute;
+    width: 300px;
+    height: 130px;
+    top: 50px;
+    left: 850px;
+}
+
+#o2 {
+    border: 1px solid black;
+    background-color: #efefef;
+    position: relative;
+    width: 1200px;
+    height: 300px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#tt {
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    left: 100px;
+}
+
+#cs {
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    left: 300px;
+}
+
+#td {
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    left: 500px;
+}
+
+#kn {
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    left: 900px;
+}
+
+input {
+    border-spacing: none;
+    padding: 5px;
+    font-size: 12px;
+    float: left;
+}
+
+#o3 {
+    width: 900px;
+    height: 50px;
+    background-color: #efefef;
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    line-height: 30px;
+    padding-bottom: 10px;
+    left: 100px;
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
